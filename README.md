@@ -7,7 +7,6 @@ I am studying a BSc (Hons) in Computer Games Development.</h3>
 ## Contact me 
 
 *[LinkedIn](https://www.linkedin.com/in/jack-sinnott-659b10100/)
-*[Email](jacksinnott1994@gmail.com)
 
 ### Coding: 💻
 **Proficent in:** `C++` `C#` `Phyton` `JavaScript` `HTML/CSS` `Assembly` `OpenGL`
