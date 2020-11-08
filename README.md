@@ -20,7 +20,7 @@ I am studying a BSc (Hons) in Computer Games Development.</h3>
 
 <br>
 
-
+![MarioPic](Images/Mario_Dance.gif)
 
 <!--
 **JackSinnott/JackSinnott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
