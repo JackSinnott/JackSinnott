@@ -1,5 +1,7 @@
-### Hi there 👋
+![Introduction](./Images/Intro_Header.gif)
 
+### Hi there 👋
+<h3 align="center"> Hi 	:beaming_face_with_smiling_eyes: I'm Jack Sinnott a third year student at Carlow Institute of Technology where I am studying a </h3>
 <!--
 **JackSinnott/JackSinnott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
