@@ -4,8 +4,21 @@
 <h3 align="center"> Hi 	:grin: I'm Jack Sinnott a third year student at Carlow Institute of Technology.<br>
 I am studying a BSc (Hons) in Computer Games Development.</h3>
 
+## Contact me 
 
+*[LinkedIn](https://www.linkedin.com/in/jack-sinnott-659b10100/)
+*[Email](jacksinnott1994@gmail.com)
 
+### Coding: 💻
+**Proficent in:** `C++` `C#` `Phyton` `JavaScript` `HTML/CSS` `Assembly` `OpenGL`
+
+**IDEs:** `Visual Studio` `Visual Studio Code` `Brackets`
+
+**Game Engines:** `Godot` `Unity` 
+
+**Tools:** `Microsoft Suite` `AseSprite` `Audacity`
+
+<br>
 
 
 
